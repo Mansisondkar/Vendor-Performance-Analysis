@@ -34,5 +34,8 @@ The project focuses on analyzing vendor-level data to identify top-performing ve
 - Dashboard development and visualization in Power BI.
 
 # Dashboard 
-<img width="744" height="516" alt="Screenshot 2026-11-18 210513" src="https://github.com/user-attachments/assets/74101ece-40aa-4488-a5bb-1a771417d806" />
+<img width="875" height="519" alt="dashboard" src="https://github.com/user-attachments/assets/5e1d07b6-3d47-4ebf-9e65-4e58dcc99bbb" />
+
+# Business Impact
+This project demonstrates how data analytics can help businesses evaluate vendor performance, improve purchasing decisions, monitor profitability, and make informed inventory management decisions.
 
